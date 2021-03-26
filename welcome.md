@@ -35,6 +35,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: all rights reserved 2021
-published: false
 
 ---
